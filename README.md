@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chocolatecake0
 - 👀 I’m interested in reading fantasy novels, watching movies/animations and learning new stuff
 - 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on creating websites
+- 💞️ I’m looking to collaborate on creating websites and web applications
 - 📫 How to reach me eren531@windowslive.com
 
 <!---
