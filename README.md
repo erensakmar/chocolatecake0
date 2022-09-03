@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chocolatecake0
-- 👀 I’m interested in reading fantasy novels, watching movies/animations and playing games
-- 🌱 I’m currently learning Intermediate Algorithm Scripting with Javascript
+- 👀 I’m interested in reading fantasy novels, watching movies/animations and learning new stuff
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on creating websites
 - 📫 How to reach me eren531@windowslive.com
 
